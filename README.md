@@ -23,15 +23,15 @@ file layout.
 Personal skills, available in every project:
 
 ```bash
-git clone https://github.com/ewaugh2/claude-skills.git
-cp -r claude-skills/skills/* ~/.claude/skills/
+git clone https://github.com/ewaugh2/claude-utility-skills.git
+cp -r claude-utility-skills/skills/* ~/.claude/skills/
 ```
 
 Or scoped to one project — commit them alongside the code:
 
 ```bash
 mkdir -p .claude/skills
-cp -r /path/to/claude-skills/skills/* .claude/skills/
+cp -r /path/to/claude-utility-skills/skills/* .claude/skills/
 ```
 
 To track upstream instead of copying, add this repo as a submodule and symlink the
