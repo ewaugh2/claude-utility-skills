@@ -14,7 +14,6 @@ file layout.
 | [`design-mode`](skills/design-mode) | Forces a structured design conversation *before* anything gets built — document, deck, schema, API, UI, or another skill. Interviews you about the output, proposes a design grounded in domain principles, and refuses to implement until you accept it. |
 | [`grill-me`](skills/grill-me) | Interviews you relentlessly about a plan, one question at a time, walking down each branch of the decision tree with a recommended answer for every question. Use it to stress-test a design. |
 | [`one-shot`](skills/one-shot) | Run a task to completion with no human in the loop. Key questions get 2–3 candidate answers, a chosen one, and a note in the transcript — so you can step away and review the whole thing afterwards. |
-| [`sports-score-prediction`](skills/sports-score-prediction) | Predicts *scorelines* (not just winners) with probabilities, combining prediction markets, expert analysts, last-5-match form, and a motivation model that reads what each team is actually playing for. |
 | [`teach-me`](skills/teach-me) | A 20–30 minute Socratic session that leaves you with both a map (where a topic sits, how its parts relate) and a mechanism (how it works from first principles). No memorization, no homework. Has a non-interactive briefing mode. |
 
 ## Installing
